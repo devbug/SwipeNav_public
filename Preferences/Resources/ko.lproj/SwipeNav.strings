@@ -1,0 +1,13 @@
+"Enable" = "활성화";
+"RESPRING_REQUIRED_1" = "리스프링이 필요합니다. 혹은 모든 실행된 앱에서 이전 페이지로 돌아가거나 재시작해야 합니다.";
+"BlackList Apps" = "제외 앱";
+"RESPRING_REQUIRED_3" = "탭을 반복하면 일반 제외, 강제 제외, 적용 등 선택이 가능합니다. 강제 제외 리스트(회색 글씨)의 변경은 리스프링이 필요합니다.";
+"Advanced" = "고급설정";
+"Not Now" = "지금은 안 해요.";
+"Yes!" = "넵!";
+"DONATION_PROMPT" = "사파리 앱으로 PayPal에 접속하시겠습니까?";
+"Donate" = "기부하기";
+"NOW_PRINTING" = "로딩 중...";
+"LOAD_DATA" = "데이터 로딩 중";
+"PLZ_WAIT" = "기다려주세요...";
+"COPYRIGHT_MSG" = "SwipeNav © 2011-2015 deVbug";

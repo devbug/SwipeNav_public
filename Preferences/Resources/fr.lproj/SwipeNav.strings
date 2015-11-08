@@ -1,0 +1,13 @@
+"Enable" = "Activer SwipeNav";
+"RESPRING_REQUIRED_1" = "Un Respring est nécessaire (ou bien un retour vers la page précédente, ou quitter puis relancer toutes les apps ouvertes).";
+"BlackList Apps" = "Réglages par app";
+"RESPRING_REQUIRED_3" = "Vous pouvez définir la méthode de Désactivation entre Normale et Forcée, ou bien laisser SwipeNav prédominer. Un Respring est requis pour appliquer la méthode Forcée (texte grisé).";
+"Advanced" = "Réglages Avancés";
+"Not Now" = "Pas maintenant";
+"Yes!" = "Oui !";
+"DONATION_PROMPT" = "Quitter les Réglages et ouvrir Safari pour faire un don PayPal ?";
+"Donate" = "Faire un don";
+"NOW_PRINTING" = "Chargement...";
+"LOAD_DATA" = "Chargement";
+"PLZ_WAIT" = "Veuillez patienter...";
+"COPYRIGHT_MSG" = "SwipeNav © 2011-2015 deVbug";

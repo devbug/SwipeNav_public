@@ -1,0 +1,10 @@
+Package: me.devbug.swipenav
+Name: SwipeNav
+Depends: mobilesubstrate (>= 0.9.5012), preferenceloader (>= 2.2.2), firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: You can swipe in ALL UINavigation* for navigating previous page.
+Maintainer: deVbug <devbug@devbug.me>
+Author: deVbug <devbug@devbug.me>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/swipenav.bundle/SwipeNav@2x.png

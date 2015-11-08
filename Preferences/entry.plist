@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = swipenav;
+		cell = PSLinkCell;
+		detail = "SwipeNavListController";
+		icon = "SwipeNav.png";
+		isController = 1;
+		label = SwipeNav;
+	};
+}
