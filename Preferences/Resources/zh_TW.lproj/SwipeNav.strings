@@ -1,0 +1,13 @@
+﻿"Enable" = "啟動";
+"RESPRING_REQUIRED_1" = "需要重啟主畫面或者需要回到前一頁或者重新開啟所有已經執行的 App。";
+"BlackList Apps" = "排除的 App";
+"RESPRING_REQUIRED_3" = "可以選擇在一般關閉和強制關閉中關閉選項並且啟動。需要重啟來設定或者關閉強制關閉(灰階文字)。";
+"Advanced" = "進階";
+"Not Now" = "不要現在";
+"Yes!" = "是的!";
+"DONATION_PROMPT" = "離開設定並且開啟 Safari 來透過 PayPay 捐獻?";
+"Donate" = "捐獻";
+"NOW_PRINTING" = "載入中...";
+"LOAD_DATA" = "載入資料中";
+"PLZ_WAIT" = "請稍後...";
+"COPYRIGHT_MSG" = "SwipeNav © 2011-2015 deVbug";
